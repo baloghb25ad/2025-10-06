@@ -1,14 +1,20 @@
+body{
+    background-color: #eeeeee;
+}
+
 h1{
     color: darkgreen;
 }
 
 p{
-    color: limegreen;
+    color: #333333;
 }
 
-.contaimer{
+.container{
     width: 500px;
-    background-color: cornsilk;
-    margin:auto;
-    padding: 20px;
+    background-color: #dddddd;
+    border:3px solid  #666666;
+    border-radius: 10px; 
+    padding:20px ;
+    margin: 30px auto;
 }
