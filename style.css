@@ -50,3 +50,12 @@ text-decoration: none;
 font-weight: bold;
 }
 
+.topnav a:hover {
+    background-color: #9c9b9b;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04aa6d;
+    color: white;
+}
